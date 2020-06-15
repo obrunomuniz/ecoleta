@@ -131,11 +131,11 @@ $ npm run knex:migrate
 $ npm run knex:seed
 ```
 
-### Utilizando o Website
+### Utilizando o Web
 
 ```sh
 # Abrindo o terminal no diretório do website:
-$ cd ./website
+$ cd ./web
 
 # Executando o website no modo de desenvolvimento:
 $ npm run start
