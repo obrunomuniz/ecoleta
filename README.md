@@ -6,7 +6,7 @@
 
 <h3 align="left">
 
-Ecoleta é um projeto **Open Source** desenvolvido na **Next Level Week 1.0 ** da **[Rocketseat][rocketseat_site]**. </br>
+Ecoleta é um projeto **Open Source** </br>
 O projeto consiste em um mvp  ao qual pode ser muito melhorado, no sentido de componentização, validações, testes e arquitetura de projeto.
 Utilizamos as tecnologias ***TypeScript, Node, React e React Native***.
 
